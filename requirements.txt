@@ -7,4 +7,3 @@ groq
 pandas
 numpy
 python-dateutil
-scikit-learn
